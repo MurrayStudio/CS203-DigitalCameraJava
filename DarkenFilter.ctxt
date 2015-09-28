@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ \r\n\ filter\r\n\ Gets\ RGB\ values\ for\ current\ pixel\ and\ \r\n\ divides\ by\ 2\ to\ get\ darker\ values\r\n\ @param\ pi\ The\ PixelImage\ object\ to\ modify\r\n
+numComments=1

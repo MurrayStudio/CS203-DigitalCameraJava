@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ \r\n\ filter\r\n\ take\ highest\ RGB\ value\ and\ subtract\ by\ actual\ RGB\ values\r\n\ for\ the\ pixels;\ this\ will\ yield\ a\ negative\ filter.\r\n\ @param\ pi\ The\ PixelImage\ object\ to\ modify\r\n
+numComments=1

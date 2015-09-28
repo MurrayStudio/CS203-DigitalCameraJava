@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ \r\n\ filter\r\n\ Shift\ all\ pixels\ to\ the\ left\ and\ bring\ 1st\ column\ of\ \r\n\ pixels\ to\ the\ last\ column\ of\ pixels\ via\ temp\ array\ of\ pixels.\r\n\ @param\ pi\ The\ PixelImage\ object\ to\ modify\r\n
+numComments=1

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnapShop()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SnapShop\r\n
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=f\ description
+comment2.target=void\ addFilter(Filter,\ java.lang.String)
+comment2.text=\r\n\ addFilter\r\n\ Adds\ a\ filter\ to\ the\ SnapShop\ interface.\ \ Creates\ a\ button\ and\r\n\ links\ it\ to\ the\ filter.\r\n\ @param\ f\ The\ filter\ to\ apply\r\n\ @param\ description\ English\ description\ of\ the\ filter\r\n
+comment3.params=
+comment3.target=void\ showWaitDialog()
+comment3.text=\r\n\ showWaitDialog\r\n\ makes\ wait\ dialog\ visible\r\n
+comment4.params=
+comment4.target=void\ hideWaitDialog()
+comment4.text=\r\n\ hideWaitDialog\r\n\ makes\ wait\ dialog\ invisible\r\n
+comment5.params=
+comment5.target=SnapShop.ImagePanel\ getImagePanel()
+comment5.text=\r\n\ getImagePanel\r\n\ returns\ ImagePanel\r\n\ @return\ ImagePanel\ associated\ with\r\n\ RenderingDialog\r\n
+comment6.params=filepath
+comment6.target=void\ setDefaultDirectory(java.lang.String)
+comment6.text=\r\n\ setDefaultDirectory\r\n\ Set\ the\ default\ directory\ to\ appear\ in\ the\ box\r\n\ @param\ filepath\ the\ default\ directory\ filepath\r\n
+numComments=7

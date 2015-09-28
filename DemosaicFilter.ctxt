@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ \r\n\ filter\r\n\ \r\n\ Averages\ red,\ green,\ and\ blue\ values\ on\ an\ image\ and\ assigns\ those\ values\ to\ pixels\r\n\ so\ the\ image\ is\ demosaiced\ from\ its\ orignal\ filtered\ self.\r\n\ \r\n\ @param\ pi\ The\ PixelImage\ object\ to\ modify\r\n
+comment1.params=row\ col
+comment1.target=boolean\ isValid(int,\ int)
+comment1.text=\ \r\n\ Used\ to\ check\ if\ the\ row\ and\ col\ of\ the\ pixel\ being\ checked\ is\ in\ the\ array\ data\r\n\ \r\n\ @param\ int\ row\ used\ to\ keep\ track\ of\ what\ row\ the\ program\ is\ on\r\n\ @param\ int\ col\ used\ to\ keep\ track\ of\ what\ col\ the\ program\ is\ on\r\n
+numComments=2
